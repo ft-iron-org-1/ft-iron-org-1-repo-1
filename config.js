@@ -1,0 +1,2 @@
+[AWS]
+api_key=32423434ijhj4b52345jh2345g23j43
